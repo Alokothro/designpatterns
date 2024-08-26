@@ -1,3 +1,4 @@
+package strategy;
 import java.util.List;
 
 public class LinearSearch implements SearchBehavior {
