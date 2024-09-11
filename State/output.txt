@@ -1,0 +1,41 @@
+Welcome to our Arithemetic Game
+1. Answer a Question
+2. Quit
+1
+5 - 5: 0
+Correct
+1. Answer a Question
+2. Quit
+1
+4 + 2: 6
+Correct
+1. Answer a Question
+2. Quit
+1
+1 - 2: -2
+Incorrect
+1. Answer a Question
+2. Quit
+1
+1 + 3: 4
+Correct
+1. Answer a Question
+2. Quit
+1
+9 - 6: 3
+Correct
+Level Increased to: Medium
+1. Answer a Question
+2. Quit
+1
+24 + 32: 56
+Correct
+1. Answer a Question
+2. Quit
+1
+13 - 21: -7
+Incorrect
+1. Answer a Question
+2. Quit
+2
+Goodbye
